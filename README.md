@@ -29,7 +29,9 @@ Try it live here: [https://type-master-eta-roan.vercel.app/](https://type-master
 
 ## Screenshots
 
-![Typing Test](./screenshot-typing-test.png)  
+
+![image](https://github.com/user-attachments/assets/b8a1e5e3-e6b1-41cb-bba7-8be8512edd05)
+
 *Example of Type-Master interface*
 
 ---
