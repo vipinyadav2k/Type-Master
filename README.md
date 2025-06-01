@@ -1,61 +1,65 @@
-# Type-Master
+<h1 align="center">🎯 Type-Master</h1>
 
-**Type-Master** is a customizable typing test web app inspired by [Monkeytype](https://monkeytype.com). It offers a sleek typing experience with various modes and real-time statistics to help improve your typing skills.
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzRxbzZqZm8ybXU2em14N2tnd3E0djI4aTR4OTloM2MxYTFmZWtwZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NzzkoUUI3Z3skheQWq/giphy.gif" width="600" alt="Typing animation gif" />
+</p>
 
----
+<p align="center">
+  A sleek, customizable typing test inspired by <a href="https://monkeytype.com" target="_blank"><strong>Monkeytype</strong></a> — built using <strong>Next.js</strong> + <strong>TypeScript</strong> 🚀
+</p>
 
-## Demo
-
-Try it live here: [https://type-master-eta-roan.vercel.app/](https://type-master-eta-roan.vercel.app/)
-
----
-
-## Features
-
-- Four typing test modes: **15 seconds**, **30 seconds**, **60 seconds**, and **120 seconds**
-- Real-time **Words Per Minute (WPM)** calculation
-- Accuracy tracking to measure your typing precision
-- Customizable UI with a **color picker** for personalized themes
-- Built with modern technologies for a fast, responsive experience
+<p align="center">
+  <a href="https://type-master-eta-roan.vercel.app/"><img src="https://img.shields.io/badge/Live%20Demo-Online-blueviolet?style=for-the-badge&logo=vercel" alt="Live Demo" /></a>
+  <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=nextdotjs" alt="Next.js Badge" />
+  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript Badge" />
+</p>
 
 ---
 
-## Tech Stack
-
-- **Next.js** – React framework for server-side rendering and static site generation
-- **TypeScript** – Strictly typed JavaScript for enhanced reliability and developer experience
+## 🔗 [Live Demo](https://type-master-eta-roan.vercel.app/)
 
 ---
 
-## Screenshots
+## ✨ Features
 
-
-![image](https://github.com/user-attachments/assets/b8a1e5e3-e6b1-41cb-bba7-8be8512edd05)
-
-![image](https://github.com/user-attachments/assets/72fa2282-50c4-443b-86d5-711417c4166f)
-
-
-*Example of Type-Master interface*
+- 🕒 Four time modes: **15s**, **30s**, **60s**, **120s**
+- ⌨️ Real-time **WPM** & **Accuracy** tracking
+- 🎨 Custom **color picker** to personalize themes
+- 💡 Clean UI inspired by Monkeytype
+- 🚀 Fast, responsive, and built for modern browsers
 
 ---
 
-## Getting Started
+## 🧠 Tech Stack
 
-### Prerequisites
+| Tech | Description |
+|------|-------------|
+| ⚛️ Next.js | React framework with hybrid rendering |
+| 🟦 TypeScript | Typed JavaScript for better dev experience |
+| 🧪 Vercel | Deployment & hosting platform |
 
-- Node.js (v14 or higher)
+---
+
+## 📸 Preview
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/b8a1e5e3-e6b1-41cb-bba7-8be8512edd05" width="500" />
+  <br/>
+  <img src="https://github.com/user-attachments/assets/72fa2282-50c4-443b-86d5-711417c4166f" width="500" />
+</p>
+
+---
+
+## 🚀 Getting Started
+
+### 🧰 Prerequisites
+
+- Node.js v14+
 - npm or yarn
 
-### Installation
+### 📦 Installation
 
 ```bash
 git clone https://github.com/yourusername/type-master.git
 cd type-master
-npm install
-# or
-yarn install
-
-npm run dev
-# or
-yarn dev
-Open http://localhost:3000 to view it in your browser.
+npm install  # or yarn install
