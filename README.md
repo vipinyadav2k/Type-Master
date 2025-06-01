@@ -63,3 +63,5 @@
 git clone https://github.com/yourusername/type-master.git
 cd type-master
 npm install  # or yarn install
+npm run dev
+Go to : localhost:3000 
