@@ -32,6 +32,9 @@ Try it live here: [https://type-master-eta-roan.vercel.app/](https://type-master
 
 ![image](https://github.com/user-attachments/assets/b8a1e5e3-e6b1-41cb-bba7-8be8512edd05)
 
+![image](https://github.com/user-attachments/assets/72fa2282-50c4-443b-86d5-711417c4166f)
+
+
 *Example of Type-Master interface*
 
 ---
@@ -52,10 +55,6 @@ npm install
 # or
 yarn install
 
-Running Locally
-bash
-Copy
-Edit
 npm run dev
 # or
 yarn dev
