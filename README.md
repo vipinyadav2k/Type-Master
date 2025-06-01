@@ -1,6 +1,6 @@
 <h1 align="center">🎯 Type-Master</h1>
 
-<iframe src="https://giphy.com/embed/13GIgrGdslD9oQ" width="480" height="288" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/reaction-typing-unpopular-opinion-13GIgrGdslD9oQ">via GIPHY</a></p>
+<img src="https://giphy.com/embed/13GIgrGdslD9oQ"  />
 
 <p align="center">
   A sleek, customizable typing test inspired by <a href="https://monkeytype.com" target="_blank"><strong>Monkeytype</strong></a> — built using <strong>Next.js</strong> + <strong>TypeScript</strong> 🚀
