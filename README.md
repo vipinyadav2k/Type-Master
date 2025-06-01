@@ -1,7 +1,7 @@
 <h1 align="center">🎯 Type-Master</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzRxbzZqZm8ybXU2em14N2tnd3E0djI4aTR4OTloM2MxYTFmZWtwZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NzzkoUUI3Z3skheQWq/giphy.gif" width="600" alt="Typing animation gif" />
+  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="500" />
 </p>
 
 <p align="center">
