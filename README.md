@@ -1,7 +1,7 @@
 <h1 align="center">🎯 Type-Master</h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="500" />
+  <img src="[https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif](https://giphy.com/gifs/3o7TKtnuHOHHUjR38Y)" width="500" />
 </p>
 
 <p align="center">
