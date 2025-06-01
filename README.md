@@ -1,6 +1,9 @@
 <h1 align="center">🎯 Type-Master</h1>
 
-<img src="https://giphy.com/embed/13GIgrGdslD9oQ"  />
+<p align="center">
+  <img src="https://i.giphy.com/media/13GIgrGdslD9oQ/giphy.gif" width="500" alt="Typing Frenzy" />
+</p>
+
 
 <p align="center">
   A sleek, customizable typing test inspired by <a href="https://monkeytype.com" target="_blank"><strong>Monkeytype</strong></a> — built using <strong>Next.js</strong> + <strong>TypeScript</strong> 🚀
